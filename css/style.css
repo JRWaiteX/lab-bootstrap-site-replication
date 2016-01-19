@@ -1,0 +1,132 @@
+
+
+body {
+    padding-top: 40px;
+}
+h2,h3,h4 {
+  color: white;
+  font-family: 'Shentox Medium',sans-serif;
+  font-weight: bold;
+}
+.tnwNav-logo {
+  background-repeat: no-repeat;
+  display: block;
+  float: left;
+  height: 18px;
+  width: 58px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+li.dropdown {
+  background-color: #ff4020;
+  height: 48px;
+  width: 160px;
+  padding: 15px 2em 0 1em;
+  position: relative;
+  z-index: 2;
+  font-family: 'Shentox Medium',sans-serif;
+}
+.dropdown-menu>li>a {
+  color: white;
+  font-family: 'Shentox Medium',sans-serif;
+  background-color: red;
+}
+a.dropdown-toggle {
+  /*background-image: url('http://cdn0.tnwcdn.com/wp-content/themes/icetea/lemonsoda/img/tnw.svg');*/
+  background-color: transparent;
+}
+
+ul.dropdown-menu {
+  background-color: red;
+}
+.navbar-default .navbar-nav>li>a {
+  color: gray;
+  display: block;
+  line-height: 14px;
+  height: 48px;
+  padding: 18px 12px 0 12px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Shentox Medium',sans-serif;
+  font-weight: 500;
+  letter-spacing: .02em;
+}
+ .left-unicorn {
+  height: 520px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-position: center;
+  margin: 10px 0;
+}
+.incognito .tech-trends .cardboard {
+   background-position: center;
+}
+.incognito{
+  height: 250px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-size: cover;;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-position: center;
+  margin: 10px 0;
+
+}
+.tech-trends {
+  height: 250px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_306793247.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+  margin: 10px 0;
+
+
+}
+.cardboard {
+  height: 250px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/12/1210_googlecardboard.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+  margin: 10px 0;
+
+}
+#social {
+  float: left;
+  display: inline;
+}
+#corporate {
+  float: right;
+}
+#social li {
+   display: inline;
+}
+#corporate li {
+   display: inline;
+}
+.sectionHeader h2 a:hover {
+    color: #000;
+    clear: both;
+}
+footer {
+  clear: both;
+  background-color: black;
+}
+footer a {
+  color: gray;
+}
+/*#social {
+    background-color: #333;
+    border-radius: 50%;
+    color: #888;
+    display: block;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+    will-change: background-color;
+}*/
